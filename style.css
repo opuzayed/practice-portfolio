@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .name-style{
     color:orange;
 }
@@ -15,9 +18,11 @@ h1{
 .half-width{
     width:50%;
     padding-left: 5%;
+    padding-right: 5%;
 }
 .half-width img{
     width:80%;
+    margin-top: 130px;
 }
 .link-button{
         background: linear-gradient(to right, #ff7f00, #ff00ff); 
@@ -26,4 +31,12 @@ h1{
         text-decoration: none; 
         border-radius: 10px;
         font-weight: 700;
+}
+.Experience-area{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow:10px 10px 40px gray;
+    border-radius: 5px;
+    padding-left: 20px;
 }
