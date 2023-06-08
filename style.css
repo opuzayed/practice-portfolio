@@ -8,7 +8,7 @@ h1{
 .name-style{
     color:orange;
 }
-section{
+.flexible-container{
     display:flex;
     margin-bottom: 40px;
 }
