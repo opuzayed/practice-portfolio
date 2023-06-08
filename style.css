@@ -8,3 +8,21 @@ h1{
 .name-style{
     color:orange;
 }
+section{
+    display:flex;
+}
+.half-width{
+    width:50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width:80%;
+}
+.link-button{
+        background: linear-gradient(to right, #ff7f00, #ff00ff); 
+        color: #fff; 
+        padding: 10px 20px; 
+        text-decoration: none; 
+        border-radius: 10px;
+        font-weight: 700;
+}
